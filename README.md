@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <li>💻 Backend software engineer</li>
   <li>⏮️ Previously at BBC, eBay</li>
   <li>👩‍💻 Most experience in Java, Kotlin, SQL</li>
-  <li>🌱 Currently learning Python</li>
+  <li>🌱 Currently learning Python, Docker</li>
  </ul>
  
  <h3>Find me elsewhere</h3>
