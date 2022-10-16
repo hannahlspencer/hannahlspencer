@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-<li>💻 Backend software engineer</li>
+<li>💻 Software engineer at Microsoft</li>
   <li>⏮️ Previously at BBC, eBay</li>
   <li>👩‍💻 Most experience in Java, Kotlin, SQL</li>
-  <li>🌱 Currently learning Python, Docker</li>
+  <li>🌱 Currently learning Python, Terraform</li>
  </ul>
  
  <h3>Find me elsewhere</h3>
