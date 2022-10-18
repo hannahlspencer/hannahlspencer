@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <li>💻 Software engineer at Microsoft</li>
   <li>⏮️ Previously at BBC, eBay</li>
   <li>👩‍💻 Most experience in Java, Kotlin, SQL</li>
-  <li>🌱 Currently learning Python, Terraform</li>
+  <li>🌱 Currently learning Python, Terraform, Azure</li>
  </ul>
  
  <h3>Find me elsewhere</h3>
