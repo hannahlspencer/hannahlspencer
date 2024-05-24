@@ -24,7 +24,5 @@ Here are some ideas to get you started:
  <h3>Find me elsewhere</h3>
  <ul>
  <li>🏡 <a href="https://hannahlspencer.github.io/index.html">Personal site</a></li>
- <li>🏢 <a href="https://www.linkedin.com/in/hannahlspencer/">LinkedIn</a></li>
- <li>🏝️ <a href="https://www.instagram.com/hanlspen/">Instagram</a></li>
   <li>📚 <a href="https://hannah-6.gitbook.io/knowledgebase/">Personal Wiki</a></li>
   </ul>
